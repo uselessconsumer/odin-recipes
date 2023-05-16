@@ -1,2 +1,2 @@
 # odin-recipes
-Live site: uselessconsumer.github.io/odin-recipes 
+Live site: https://uselessconsumer.github.io/odin-recipes/
