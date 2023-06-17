@@ -1,9 +1,11 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
+   /* border: 1px solid red; */
 }
 
 body {
     background-color:gainsboro;
+    margin: 0;
 }
 
 main {
@@ -12,7 +14,46 @@ main {
     padding-top: 50px;
 }
 
+footer {
+    width: 600px;
+    margin: auto;
+}
+
 h1 {
     font-size: 50px;
-    
+    color:darkslategrey;
+}
+
+ul {
+    /* display: inline-block; */
+    /* margin-bottom: 10px; */
+    padding: 10px 10px;
+    font-size: 25px;
+    color:darkslategrey;
+    margin: 0;
+
+}
+
+li {
+    width: 200px;
+    margin: 0px 10px;
+    list-style-type: none;
+    display: inline;
+}
+
+ul li a {
+    display: inline-block;
+    width: 100px;
+}
+
+.home-soup {
+    width: 100%;
+    height: auto;
+}
+
+.recipes {
+    background-color:bisque;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 15px;
 }
